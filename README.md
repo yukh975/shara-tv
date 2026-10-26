@@ -1,4 +1,4 @@
-# Shara TV
+# Twinbox
 
 IPTV + SMB media player for Android TV (like Kodi, without the extras).
 
@@ -14,13 +14,13 @@ GitLab repository. Releases are published here for in-app updates on the TV.
 ## Install
 
 Download the latest APK from
-[Releases](https://github.com/yukh975/shara-tv/releases) and install it on your
+[Releases](https://github.com/yukh975/twinbox/releases) and install it on your
 Android TV (`adb install -r` or a file manager from USB).
 
 The app checks this repo's releases for updates (Settings → Updates).
 
 ## Verification
 
-APKs are signed with the Shara TV production key (certificate SHA-256
+APKs are signed with the Twinbox production key (certificate SHA-256
 `9a9f3b6f769694907728114d87a4c5901cbb0e185d457976e2396ee22119ded5`). The app
 verifies the package and signature before installing an update.
